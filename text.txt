@@ -1,0 +1,7 @@
+Open VE:-
+
+source ~/venvs/pop_rl/bin/activate
+
+Run:-
+
+python train_pop_rl.py
