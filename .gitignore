@@ -9,3 +9,4 @@ __pycache__/pop_rl_env.cpython-314.pyc
 *.pyc
 __pycache__/pop_rl_env.cpython-314.pyc
 pop_rl_dqn_competition_v1.zip
+dqn_agent.pth
